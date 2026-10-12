@@ -1,0 +1,26 @@
+.fondo {
+  width: 100%;
+  aspect-ratio: 105 / 148;
+  background-image: url("../img/fondo%201.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.boton {
+    width: 50px;
+    height: 50px;
+    margin-top: 60px;
+}
+
+.boton2 {
+    width: 50px;
+    height: 50px;
+    margin-top: 380px;
+}
+
+.boton3 {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 240px;
+}
